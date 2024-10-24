@@ -6,7 +6,7 @@ authors = ["Cz4rNy213 <mikolaj.kolek2@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "3.12.4"
 ipykernel = "^6.29.5"
 python-dotenv = "^1.0.1"
 langchain-openai = "^0.2.3"
@@ -16,6 +16,7 @@ pytube = "^15.0.0"
 langchain-community = "^0.3.3"
 scikit-learn = "^1.5.2"
 docarray = "^0.40.0"
+langchain-pinecone = "^0.2.0"
 
 
 [build-system]
